@@ -1,2 +1,2 @@
-# e-commerce
-e-commerce web application using node js react js mongodb
+# e-commerce API
+e-commerce API using node js Express js mongodb
